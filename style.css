@@ -67,7 +67,7 @@ body {
 }
 .btn {
     background-color: var(--line-border-fill);
-    color: aliceblue;
+    color: #111;
     border: 0;
     border-radius: 6px;
     cursor: pointer;
